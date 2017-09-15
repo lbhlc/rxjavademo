@@ -1,8 +1,10 @@
-package com.example.administrator.myapplication;
+package com.example.administrator.myapplication.activites;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
+
+import com.example.administrator.myapplication.R;
 
 import io.reactivex.Observable;
 import io.reactivex.ObservableEmitter;
